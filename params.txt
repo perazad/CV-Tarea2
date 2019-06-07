@@ -1,1 +1,1 @@
-{"ms": [{"range_radius": 4.5, "min_density": 300, "spatial_radius": 6}]}
+{"ms": [{"range_radius": 5, "min_density": 300, "spatial_radius": 10}]}
